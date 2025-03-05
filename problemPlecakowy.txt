@@ -1,0 +1,23 @@
+Mamy konsole ps5 i ma 500gb pamieci
+Chcemy aby wartość gier była jak największa, ale muszą się zmieścić w pamięci.
+np. 
+-Wiedźmin 3 80gb cena: 150zł
+-Gta 6 300gb cena 400zł
+
+
+Łowienie ryb
+Łowimy ryby aby móc je sprzedać, lecz na łowisko dojechaliśmy na rowerze. Maksymalnie możemy zabrać 30kg ryb i chcemy
+zebrać jak najdroższy gatunek
+
+-karaś 1kg, cena 5zł
+-karp 3kg, cena 20zł
+
+
+Gramy w gwinta w wiedźminie. Posiadamy 5000 kasy a chcemy kupić karty do gry, ktorych punktacja będzie jak największa.
+- Ciri 15, 3000
+- Yennefer 7, 1000
+
+
+
+
+
