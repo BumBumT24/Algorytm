@@ -1,0 +1,1001 @@
+index,game_title,game_size_gb,game_price_pln
+1,Night Across the Street (La noche de enfrente),45.6,399.62
+2,"Flesh Merchant, The (Wild and Wicked, The)",233.5,394.9
+3,"Secret Life of Bees, The",73.5,383.49
+4,"Lost Honor of Katharina Blum, The (Verlorene Ehre der Katharina Blum oder: Wie Gewalt entstehen und wohin sie führen kann, Die)",104.7,147.07
+5,Futurama: Into the Wild Green Yonder,177.7,24.41
+6,It's a Disaster,95.2,44.06
+7,Winter War (Talvisota),139.9,386.47
+8,Love Hina Again,112.9,342.17
+9,Paranormal Activity 4,109.0,157.73
+10,Just Go with It,181.0,35.84
+11,Highway ,202.1,300.62
+12,Iraq in Fragments,181.7,77.51
+13,"Year Ago in Winter, A (Im Winter ein Jahr)",51.7,254.49
+14,Rage at Dawn,228.0,119.43
+15,"Sport, Sport, Sport",68.8,383.68
+16,Kauwboy,21.0,46.39
+17,Viva Max!,38.5,213.84
+18,I'm No Angel,232.1,236.06
+19,"Street with No Name, The",168.7,364.82
+20,Serial,244.0,82.42
+21,Charley Varrick,145.9,22.72
+22,A Blank on the Map,120.9,182.68
+23,F/X,137.2,289.02
+24,Wieners,93.6,186.87
+25,"Dirty Carnival, A (Biyeolhan geori)",238.1,105.41
+26,Samurai Assassin (Samurai),238.8,67.73
+27,Challenge to Lassie,166.3,195.91
+28,Nuts,46.6,222.27
+29,Born to Defense (Zhong hua ying xiong),29.5,154.86
+30,"Hot Dog Program, A",186.3,362.04
+31,The Fifth Season,247.2,251.28
+32,Out of the Fog,55.7,334.47
+33,"Last of England, The",27.4,370.1
+34,Vice,196.3,336.33
+35,Transit,113.1,378.32
+36,"Pink Panther Strikes Again, The",215.1,194.79
+37,Vampire Hunter D,30.1,209.93
+38,"Left Hand of God, The",122.2,300.81
+39,Changing Lanes,187.7,365.12
+40,Japanese Girls at the Harbor (Minato no nihon musume),30.2,193.12
+41,Lucky You,198.3,370.05
+42,Cocktail,13.4,37.77
+43,Something Like Happiness (Stestí),40.5,25.08
+44,Kung Fu Hustle (Gong fu),113.1,27.75
+45,"Rescuers Down Under, The",192.4,98.06
+46,It's a Boy Girl Thing,224.0,99.76
+47,"Grudge 2, The",99.0,389.32
+48,Festival Express,23.1,260.58
+49,Joyful Noise,128.5,151.87
+50,"Forbidden Christ, The (Cristo proibito, Il)",122.7,172.98
+51,Bachelor in Paradise,63.7,13.24
+52,"Hand of Peace: Pope Pius XII and the Holocaust, A",122.8,288.64
+53,The Big Bus,106.6,54.3
+54,Theodora Goes Wild,216.0,12.02
+55,Anything Goes,126.9,329.78
+56,R100,183.8,329.11
+57,Right at Your Door,11.6,36.71
+58,"Come Back to the Five and Dime, Jimmy Dean, Jimmy Dean",197.8,374.33
+59,Scavenger Hunt,14.6,83.16
+60,"Art of War III: Retribution, The",233.2,78.55
+61,Take Me Home Tonight,113.3,79.58
+62,"Royal Affair, A (Kongelig affære, En)",18.7,335.67
+63,Happy Campers,151.7,19.88
+64,Meatballs,179.9,42.9
+65,"Glass Menagerie, The",204.8,125.1
+66,"Dark Half, The",11.4,341.82
+67,"Sorcerer and the White Snake, The (Bai she chuan shuo)",170.6,92.55
+68,"Debut, The",211.5,299.8
+69,Invaders from Mars,221.9,390.76
+70,100 Feet,126.3,117.31
+71,North Shore,118.5,264.48
+72,"Bullfighter, The (Matador)",214.7,175.57
+73,"St. Valentine's Day Massacre, The",30.4,293.77
+74,2001: A Space Odyssey,30.8,95.64
+75,Sun Alley (Sonnenallee),174.9,285.59
+76,Arsène Lupin Returns,237.9,29.63
+77,Firewall,187.9,349.64
+78,"Boys of St. Vincent, The",143.8,162.12
+79,Oxy-Morons,222.9,288.68
+80,Pudana Last of the Line (Sukunsa viimeinen),128.6,172.05
+81,"Munekata Sisters, The (Munekata kyôdai)",124.0,208.2
+82,"Arrival, The",204.6,258.87
+83,Hecho en México,146.8,397.42
+84,"Dream Catcher, The",22.4,319.88
+85,Tess of the Storm Country,187.2,34.8
+86,At Five in the Afternoon (Panj é asr),65.4,351.78
+87,Gnomeo & Juliet,35.2,37.78
+88,Mother's Day,224.4,361.93
+89,"Human Condition III, The (Ningen no joken III)",112.7,268.92
+90,Skyscraper Souls,29.4,93.39
+91,City of Ghosts,91.1,20.63
+92,Sam's Song,187.3,138.6
+93,Vice,164.4,114.31
+94,Winnie the Pooh and the Honey Tree,47.6,317.96
+95,"Hunting of the President, The",162.5,98.48
+96,"Big Blue, The (Grand bleu, Le)",151.5,365.34
+97,"Way, The",219.0,318.19
+98,Rabbit-Proof Fence,96.0,354.15
+99,Dick Tracy,22.4,101.78
+100,Island at War,56.2,276.63
+101,Whatever,14.9,195.51
+102,He Loves Me... He Loves Me Not (À la folie... pas du tout),164.9,211.22
+103,Mad Love,102.8,221.17
+104,Villa Rides!,103.0,392.66
+105,Eggs,185.8,78.43
+106,Bad Santa,222.4,159.04
+107,Trash,82.0,357.73
+108,Superstar,71.3,97.5
+109,Black & White & Sex,221.0,311.68
+110,"Misérables, Les",82.9,105.93
+111,"Boys in the Band, The",224.4,40.4
+112,"Enforcer, The (Gei ba ba de xin)",228.4,11.42
+113,My Beautiful Laundrette,126.8,120.17
+114,Our Family Wedding,244.3,337.43
+115,Cimarron,225.6,369.07
+116,Sniper 2,145.9,56.51
+117,Pretty Good for a Human (People Not as Bad as They Seem) (Aika hyvä ihmiseksi),104.7,148.1
+118,Running Mates,51.0,242.97
+119,Young Winston,237.5,287.77
+120,Thunderbirds Are GO,31.2,78.38
+121,Dawn of the Dead,219.2,105.39
+122,Edmond,176.0,137.81
+123,Titanic,117.5,259.24
+124,Scrooged,90.4,38.4
+125,Arthur,175.2,357.97
+126,Bitter Victory,158.0,133.19
+127,23 (23 - Nichts ist so wie es scheint),118.5,163.18
+128,Pete Seeger: The Power of Song,75.0,347.51
+129,Atrocious,176.6,381.47
+130,Housebound,177.0,215.85
+131,"Gravedancers, The",126.7,379.52
+132,Cria! (Cría cuervos),150.5,224.07
+133,"Boy Named Charlie Brown, A",116.5,312.33
+134,Seeking a Friend for the End of the World,219.1,19.76
+135,To the Devil a Daughter,72.8,100.45
+136,Children of a Lesser God,36.6,379.93
+137,"Other Dream Team, The",222.9,159.55
+138,Evolver,217.1,19.15
+139,Upside Down: The Creation Records Story,164.6,223.18
+140,"Ambassador, The (Ambassadøren)",245.1,99.1
+141,Beerfest,94.8,322.55
+142,"Way Home, The (Jibeuro)",31.4,110.9
+143,25 Watts,90.8,155.91
+144,"Hitch Hikers Guide to the Galaxy, The",81.2,139.43
+145,Jönssonligan på Mallorca,83.1,388.05
+146,Beer,165.3,294.47
+147,Saw VII 3D - The Final Chapter,18.1,172.55
+148,Man on the Moon,110.3,147.54
+149,Secretariat,55.9,39.08
+150,Man on Wire,29.5,97.31
+151,How They Get There,182.6,167.84
+152,Effie Gray,157.6,282.28
+153,Skin,179.3,131.44
+154,Sudden Manhattan,224.8,115.61
+155,Monsturd,211.7,315.52
+156,Supergirl,219.9,30.05
+157,"I Inside, The",46.3,76.44
+158,Milagro Beanfield War,200.0,335.25
+159,The Lumière Brothers' First Films,27.3,29.14
+160,"Killings at Outpost Zeta, The",210.3,315.62
+161,Groove,154.9,207.91
+162,"Lonely Man, The",145.5,393.32
+163,"Jungle Book of Regulations, A (Nie Ma Rozy Bez Ognia)",130.1,370.02
+164,Nobody Knows (Dare mo shiranai),54.4,343.35
+165,Alucarda,137.8,298.21
+166,Date and Switch,225.8,251.6
+167,"Hunt for Red October, The",119.7,100.25
+168,"Blue and the Gray, The",186.5,399.58
+169,Monsters vs Aliens: Mutant Pumpkins from Outer Space,162.0,177.3
+170,London After Midnight,207.9,388.55
+171,Proof,61.6,301.59
+172,Mission Congo,97.2,84.38
+173,Break-in,156.2,246.39
+174,Sometime in August (Mitte Ende August),47.5,327.53
+175,Life Back Then (Antoki no inochi),122.2,85.45
+176,Jonathan Livingston Seagull,146.1,321.18
+177,Werckmeister Harmonies (Werckmeister harmóniák),75.7,377.63
+178,"Unforgiven, The",152.7,117.01
+179,Behind Blue Skies (Himlen är oskyldigt blå),80.2,74.39
+180,Kevin Smith: Too Fat For 40,146.0,302.35
+181,96 Minutes ,210.3,42.45
+182,Tristan & Isolde,115.2,335.68
+183,"Larceny, Inc.",79.8,178.56
+184,Big Buck Bunny,79.1,139.69
+185,Beer for My Horses,230.6,323.14
+186,300,227.1,399.24
+187,Dog Days (Hundstage),115.8,77.47
+188,Hot Shots! Part Deux,63.0,38.79
+189,Bionicle: The Legend Reborn,159.8,333.62
+190,The Reverse,74.6,392.37
+191,Sam Peckinpah's West: Legacy of a Hollywood Renegade,49.9,281.84
+192,Begotten,119.2,259.75
+193,The War,27.0,245.58
+194,"Heartbreak Kid, The",126.8,21.96
+195,Train,93.5,109.21
+196,Concrete Night (Betoniyö),175.3,342.32
+197,"Doctor, The",202.1,138.53
+198,3 Bad Men,210.8,318.7
+199,Adulthood,214.7,153.77
+200,Emmanuel's Gift,32.3,183.52
+201,Pulling John,230.5,327.25
+202,La nación clandestina,235.1,172.9
+203,"Petrified Forest, The",191.9,61.32
+204,Doctor at Large,216.6,220.54
+205,Mail Early for Xmas,226.0,158.75
+206,"Driver, The",105.5,117.81
+207,Pathology,239.2,113.07
+208,"Ay, Carmela! (¡Ay, Carmela!)",30.5,147.07
+209,Barbarella,87.8,220.97
+210,"He Said, She Said",22.1,222.49
+211,La Soufrière - Warten auf eine unausweichliche Katastrophe,93.8,111.56
+212,Zatoichi's Vengeance (Zatôichi no uta ga kikoeru) (Zatôichi 13),185.0,129.91
+213,Hot Dog... The Movie,234.7,52.71
+214,Race,70.4,144.86
+215,Speak,183.6,307.0
+216,Innocence,153.7,49.52
+217,Once Upon a Time in Mexico,117.2,143.15
+218,Fantomas Unleashed,95.2,89.99
+219,Cabin Fever: Patient Zero,28.9,35.97
+220,Sleepwalkers,153.6,305.66
+221,Les modèles de 'Pickpocket',145.9,328.04
+222,Regret to Inform,217.5,115.43
+223,Prowl,244.3,163.82
+224,Richard III,21.8,349.03
+225,Two Years at Sea,43.0,366.83
+226,Beautiful Creatures,203.8,173.79
+227,Heavy Metal Parking Lot,160.1,210.73
+228,Men of War,126.1,262.26
+229,Death in Venice (Morte a Venezia),47.7,280.04
+230,Oleanna,182.9,264.6
+231,"Heirloom, The (Zhai Ban)",239.3,259.59
+232,Bronies: The Extremely Unexpected Adult Fans of My Little Pony,80.1,323.94
+233,Grudge Match,144.4,261.15
+234,Boy Meets Girl,21.4,353.94
+235,Savage Grace,49.1,215.19
+236,Charlie Chan on Broadway,135.0,395.9
+237,"Pact, The",43.1,302.75
+238,More About the Children of Noisy Village (a.k.a. More About the Children of Bullerby Village) (Mer om oss barn i Bullerbyn),242.5,87.09
+239,Manufactured Landscapes,68.0,124.48
+240,People Like Us,103.1,44.5
+241,Deathdream (a.k.a. Dead of Night),142.6,186.45
+242,Arbitrage,187.0,279.05
+243,Vegucated,58.8,68.68
+244,Warrior,158.2,274.25
+245,"Not Quite Hollywood: The Wild, Untold Story of Ozploitation!",176.2,317.88
+246,The Magnet,150.9,31.07
+247,Army of Darkness,122.3,13.1
+248,"Return of Dracula, The",31.7,241.32
+249,Annapolis,85.0,329.92
+250,Sun Kissed,70.1,12.04
+251,How I Won the War,199.3,121.39
+252,Goldfish Memory,29.3,70.85
+253,3 dev adam (Three Giant Men) ,21.3,74.89
+254,"Family Jewels, The",119.9,173.33
+255,"Amish Murder, An",233.7,154.15
+256,Wish You Were Here,68.1,277.82
+257,Catacombs,230.1,24.44
+258,Summer of the Monkeys,225.2,166.96
+259,Looney Tunes: Back in Action,10.5,164.85
+260,Last Hurrah for Chivalry (Hao xia),210.1,164.6
+261,"Late Mathias Pascal, The (a.k.a. The Living Dead Man) (Feu Mathias Pascal)",56.6,352.73
+262,Blue Steel,162.6,376.88
+263,Drei Stunden,233.5,290.44
+264,Once Upon a Time in the West (C'era una volta il West),122.9,260.19
+265,"Perfect Score, The",67.0,270.04
+266,"Dukes of Hazzard, The",75.4,370.74
+267,Little Nicholas (Le petit Nicolas),181.5,222.81
+268,Meatballs Part II,199.5,246.15
+269,"Puffy Chair, The",73.3,366.4
+270,"Son of the Sheik, The",100.1,397.15
+271,The Ghost Story of Oiwa's Spirit,236.1,41.98
+272,Marketa Lazarová,88.3,304.7
+273,17 Girls (17 filles),205.3,250.64
+274,Restless,129.3,317.81
+275,Army of Darkness,14.5,112.05
+276,Stephen Fry In America - New World,233.6,318.57
+277,Losing Isaiah,180.6,265.72
+278,La petite reine,174.1,29.26
+279,Poolhall Junkies,177.1,73.86
+280,Love Is a Many-Splendored Thing,17.2,312.64
+281,"Treasure of the Sierra Madre, The",75.0,55.46
+282,River Queen,40.2,62.68
+283,Ballet Shoes,98.6,206.98
+284,Little Big Man,142.0,42.99
+285,City of Ghosts,66.2,171.89
+286,"Villain, The",125.1,37.73
+287,Be with Me,77.2,393.47
+288,Foolish Wives,126.6,369.12
+289,Tiny Toon Adventures: How I Spent My Vacation,230.1,265.9
+290,Zeitgeist: The Movie,133.7,225.54
+291,Living with Michael Jackson,119.5,392.99
+292,"Sixth Sense, The",90.3,223.15
+293,Land of the Dead,191.8,390.32
+294,Boxcar Bertha,80.9,155.81
+295,Never Sleep Again: The Elm Street Legacy,62.6,28.65
+296,"Human Comedy, The",71.6,313.43
+297,Freaky Friday,71.6,203.62
+298,State of Play,109.2,214.5
+299,War of the Worlds,169.7,320.07
+300,Millennium Actress (Sennen joyû),163.4,294.43
+301,Out to Sea,38.0,290.29
+302,"Last Run, The",175.3,76.29
+303,Charlie Chan's Greatest Case,222.5,46.12
+304,Stalag 17,198.6,354.92
+305,"Shine of Rainbows, A",202.1,141.59
+306,Freebie and the Bean,157.5,158.38
+307,"Battle Creek Brawl (Big Brawl, The)",187.5,248.01
+308,"Bullet for the General, A (Quién Sabe?)",92.4,182.56
+309,Jack and the Beanstalk,93.7,355.87
+310,Nights in Rodanthe,140.0,284.83
+311,Gainsbourg (Vie Héroïque),176.9,373.02
+312,Bloody New Year,23.3,132.19
+313,Hercules,202.2,41.78
+314,Blind Shaft (Mang jing),68.8,378.1
+315,Nico and Dani (Krámpack),79.4,291.07
+316,"Boogie (Boogie, el aceitoso)",92.1,30.94
+317,"Losers, The",216.2,72.7
+318,Young Adam,142.5,300.13
+319,On the Ropes,154.3,55.53
+320,Date Night,53.1,251.22
+321,Habana Blues,57.1,141.42
+322,Stunt Squad,112.6,48.04
+323,Broadway Danny Rose,163.6,116.72
+324,Upstream,21.4,302.2
+325,Year of the Comet,97.3,100.83
+326,Majesteit,80.4,362.01
+327,"Walk Among the Tombstones, A",72.9,359.54
+328,Wing and a Prayer,218.9,132.72
+329,Child's Pose,211.8,333.2
+330,Delusion,226.1,342.89
+331,The Rag Man,119.2,76.23
+332,"Next Three Days, The",58.4,104.31
+333,Right America: Feeling Wronged - Some Voices from the Campaign Trail ,169.6,29.3
+334,Brave New World,236.6,198.96
+335,Rubber Johnny,146.0,216.03
+336,Murder by Proxy: How America Went Postal,240.2,37.15
+337,"Child, The",192.6,312.09
+338,Voices of Iraq,83.4,162.56
+339,Hen Hop,216.1,243.57
+340,"Man from Utah, The",114.9,335.24
+341,"Forgotten, The",42.7,242.38
+342,Salaam Bombay!,220.1,346.16
+343,Hangman's House,37.9,384.78
+344,Killer Klowns from Outer Space,143.0,76.63
+345,Village People Radio Show (Apa khabar orang kampung),125.2,301.0
+346,"Huey P. Newton Story, A",117.0,398.98
+347,"Peacekeeper, The",155.5,198.62
+348,"Bridge Too Far, A",100.0,284.69
+349,Delirium,14.3,356.35
+350,Welcome to Macintosh,233.5,70.88
+351,Tully,215.0,374.96
+352,Death In Love,167.5,47.38
+353,Grey Gardens,228.6,130.77
+354,"Sport, Sport, Sport",244.0,362.39
+355,Moon Zero Two,209.3,352.55
+356,Dead of Night,50.2,189.49
+357,"Silent Partner, The",88.4,127.46
+358,"Crying Game, The",162.9,370.88
+359,"Forever, Darling",226.7,342.38
+360,Under Ten Flags,230.3,96.1
+361,Metal Brothers (Mammas pojkar),206.0,62.0
+362,Vixen!,215.9,58.16
+363,Sex Is Comedy,190.4,48.83
+364,I Can't Sleep (J'ai pas sommeil),185.0,244.86
+365,Clash of the Wolves,10.9,87.33
+366,Butley,203.1,148.1
+367,Backtrack (Catchfire),112.6,175.58
+368,Rocky II,14.4,234.4
+369,Porco Rosso (Crimson Pig) (Kurenai no buta),227.2,37.78
+370,"Stranger's Heart, A",243.4,374.19
+371,"Railway Man, The",181.1,101.47
+372,Brunet Will Call (Brunet wieczorowa pora),239.4,140.78
+373,"Soldier's Story, A",187.0,329.89
+374,Shake It (En kort en lang),91.6,260.11
+375,Westward the Women,86.0,83.38
+376,Journey Beyond Three Seas,193.1,279.85
+377,Bekas,216.2,107.24
+378,Hysterical Blindness,59.9,26.59
+379,Go Now,182.1,255.58
+380,King Lear,15.8,183.59
+381,"Swedish Love Story, A (Kärlekshistoria, En)",86.7,23.91
+382,Chinese Box,240.3,87.31
+383,Shaka Zulu: The Citadel,81.3,303.77
+384,Everything Will Be Fine,133.5,55.49
+385,Kill by Inches,44.3,139.44
+386,Dishonored,152.7,208.52
+387,"Introduction to Physics, An",219.2,340.99
+388,"Story of Mankind, The",231.2,226.0
+389,Forget Paris,123.4,361.54
+390,Night Train,58.7,110.67
+391,Cannibal! The Musical (a.k.a. Alferd Packer: The Musical),197.9,91.45
+392,Two Brothers (Deux frères),50.1,25.3
+393,"Good Girl, The",52.1,11.78
+394,Charlie's Angels: Full Throttle,178.6,13.1
+395,True Confessions,227.1,269.34
+396,Rob the Mob,134.9,116.74
+397,Four Sons,16.3,264.06
+398,"Me You Them (Eu, Tu, Eles)",63.8,386.36
+399,"Way South, The (De weg naar het zuiden)",19.3,306.3
+400,"Dirties, The",193.5,202.61
+401,"Adventures of Hajji Baba, The",204.7,148.05
+402,Gainsbourg (Vie Héroïque),155.4,364.6
+403,Go for Zucker! (Alles auf Zucker!),23.1,336.76
+404,Empire of the Wolves (L'empire des loups),125.2,53.68
+405,"Cadaver Christmas, A",225.2,330.74
+406,Videocracy (Videocracy - Basta apparire),31.5,24.83
+407,Girl with a Pearl Earring,206.4,210.67
+408,Grey Gardens,113.6,90.01
+409,Ju Dou,207.1,344.96
+410,London,57.0,254.1
+411,BFFs,128.1,210.32
+412,London River,89.1,378.01
+413,Documentarian,170.6,223.47
+414,Crimson Tide,167.5,201.17
+415,"Most Hated Family in America, The",47.3,160.4
+416,Two Can Play That Game,237.9,302.73
+417,Hard Ticket to Hawaii,141.7,103.77
+418,"Purple Rose of Cairo, The",99.2,16.44
+419,Class Reunion,132.1,344.54
+420,Levitated Mass,241.1,17.32
+421,Run Silent Run Deep,243.6,279.25
+422,Grant Morrison: Talking with Gods,35.2,364.34
+423,Radio,30.6,98.07
+424,"World Unseen, The",161.2,59.35
+425,"Story of Three Loves, The",20.2,258.83
+426,Champagne for Caesar,207.8,218.64
+427,Teenage Mutant Ninja Turtles II: The Secret of the Ooze,129.5,185.11
+428,Conan O'Brien Can't Stop,228.6,100.3
+429,Valley of the Dolls,223.4,11.5
+430,"Bigamist, The",53.7,31.19
+431,"Fish Child, The (El niño pez)",202.7,163.67
+432,The Face of Marble,112.4,337.32
+433,Cirque du Soleil: Dralion,141.9,384.67
+434,The Fox & the Child,235.2,82.37
+435,Little City,63.3,173.83
+436,John Dies at the End,144.5,229.63
+437,Colonel Redl (Oberst Redl),16.6,137.32
+438,"Blob, The",102.8,323.4
+439,Please Don't Eat the Daisies,56.1,182.59
+440,Marnie,133.2,382.67
+441,Mr. Destiny,83.3,148.47
+442,In Praise of Love (Éloge de l'amour),25.0,363.01
+443,Paranormal Activity,17.9,297.26
+444,Breakin',119.2,123.96
+445,Village People Radio Show (Apa khabar orang kampung),197.4,254.04
+446,"Piece of the Action, A",57.5,68.17
+447,Those Who Love Me Can Take the Train (Ceux qui m'aiment prendront le train),35.6,243.46
+448,In Good Company,102.5,41.03
+449,"Three Brothers, The (Les trois frères)",122.5,253.18
+450,Iron Man 2,170.5,281.02
+451,Frogs,231.6,29.23
+452,Othello,51.7,307.16
+453,Triggermen,45.6,190.79
+454,Born to Win,201.3,130.54
+455,Fantasia 2000,181.9,242.89
+456,Fiston,81.6,243.29
+457,Killer Force,191.7,264.59
+458,"Mugger, The (El asaltante)",194.8,178.55
+459,"Fearless Freaks, The",82.0,287.29
+460,Justin Bieber: Never Say Never,91.7,303.32
+461,"Friends of Eddie Coyle, The",39.0,349.69
+462,Fados,214.8,45.0
+463,Pushover,225.5,60.34
+464,Men in White,86.3,15.67
+465,"Anniversary Party, The",157.6,40.85
+466,Things Change,93.2,73.34
+467,Spin,135.1,60.48
+468,Kajaki,105.9,229.11
+469,Sweet Hearts Dance,223.4,38.64
+470,Went the Day Well?,174.9,307.89
+471,Ciao Bella,174.1,244.52
+472,"League of Ordinary Gentlemen, A",37.5,313.48
+473,Get Yourself a College Girl,101.3,55.58
+474,Troll,27.0,25.64
+475,Ghosts of the Abyss,186.6,322.3
+476,"Young Americans, The",111.4,314.32
+477,1984 (Nineteen Eighty-Four),28.1,117.61
+478,"Puppet Masters, The",89.6,331.49
+479,My Wrongs 8245-8249 and 117,172.3,294.3
+480,Kingdom of Heaven,162.0,324.36
+481,Singapore Sling (Singapore sling: O anthropos pou agapise ena ptoma),244.4,67.28
+482,Gory Gory Hallelujah,96.5,22.98
+483,Captain America II: Death Too Soon,175.2,363.05
+484,"Piece of the Action, A",218.1,73.63
+485,Mysterious Island,26.0,202.85
+486,Jungleground,208.8,343.63
+487,Last Days,214.3,26.84
+488,Shark Attack,58.9,314.33
+489,"Unmarried Woman, An",13.3,212.23
+490,Hogfather (Terry Pratchett's Hogfather),115.2,188.28
+491,Saturday Night and Sunday Morning,124.5,306.64
+492,"Two Jakes, The",233.7,319.57
+493,City of Industry,49.0,392.25
+494,"Last Days of Disco, The",55.0,216.02
+495,Somebody Up There Likes Me,52.7,124.15
+496,"Oxford Murders, The",129.6,207.42
+497,Piranha,202.7,120.69
+498,On a Clear Day You Can See Forever,124.3,19.56
+499,"Mummy's Ghost, The",249.9,211.87
+500,Cool Air,43.5,92.75
+501,Gulliver's Travels,120.0,104.92
+502,"Sacrifice, The (Offret - Sacraficatio)",185.3,218.81
+503,"Intruder, The",67.2,83.15
+504,Prophet's Prey,27.0,308.63
+505,Mumblecore,191.4,46.28
+506,Eyjafjallajökull,36.9,210.44
+507,Shaolin Wooden Men (Shao Lin mu ren xiang),173.4,18.84
+508,Het Vonnis,50.4,196.11
+509,LUV,30.0,389.51
+510,Bubba Ho-tep,200.2,305.03
+511,30 Minutes or Less,125.4,35.5
+512,Curdled,191.3,19.97
+513,"Cabinet of Dr. Ramirez, The",18.4,77.19
+514,Wrath of the Titans,66.4,286.2
+515,Baxter,216.5,169.71
+516,"Big Sky, The",33.4,274.36
+517,Gigot,42.9,399.08
+518,Yamla Pagla Deewana 2,164.8,109.95
+519,"Fuehrer's Face, Der",80.1,166.73
+520,Let the Bullets Fly,121.9,330.61
+521,Onmyoji (Onmyoji: The Yin Yang Master),199.9,150.89
+522,City Under Siege (Chun sing gai bei),248.1,113.05
+523,Welcome Mr. Marshall (Bienvenido Mister Marshall),143.6,377.66
+524,Ghost Rider: Spirit of Vengeance,185.6,392.83
+525,Castle on the Hudson,25.8,292.32
+526,"Return of Mod Squad, The",184.9,62.37
+527,"President's Analyst, The",137.1,45.78
+528,Yo Yo (Yoyo),212.6,82.68
+529,"Screaming Man, A (Un homme qui crie)",90.6,103.24
+530,Bloody Territories (Kôiki bôryoku: ryuuketsu no shima),168.5,254.8
+531,"Plainsman, The",37.2,209.11
+532,Innocence,132.0,123.5
+533,Shanghai Express,82.7,267.41
+534,Bitter Victory,192.3,211.2
+535,Jailhouse Rock,29.9,240.8
+536,Singapore Sling (Singapore sling: O anthropos pou agapise ena ptoma),60.5,193.38
+537,The Dancer,186.9,251.81
+538,Rammbock,103.8,170.37
+539,"Perfect Family, The",237.4,397.41
+540,An American Tail: The Treasure of Manhattan Island,204.2,302.1
+541,Sister Act,69.8,76.45
+542,So It Goes (Korsoteoria),245.0,252.09
+543,"Stickup, The",170.0,232.23
+544,Shining Night: A Portrait of Composer Morten Lauridsen,159.5,201.62
+545,Last Days of Mussolini (Mussolini: Ultimo atto),89.2,211.7
+546,Three Days (Tres días),127.3,31.3
+547,"Lizzie McGuire Movie, The",21.1,98.42
+548,Super Size Me,240.3,233.44
+549,Swamp Water,166.6,343.69
+550,Cheetah,221.3,74.87
+551,"Wind Rises, The (Kaze tachinu)",210.3,119.24
+552,"Bronx Tale, A",29.3,175.51
+553,The Woman in Black 2: Angel of Death,98.3,396.44
+554,Dr. Dolittle 3,68.6,210.01
+555,Local Hero,189.0,277.61
+556,"Crow: Salvation, The",178.0,252.77
+557,Captains Courageous,124.9,257.62
+558,In Their Sleep (Dans ton sommeil),75.2,366.28
+559,On the Run,137.1,189.78
+560,Joan of Paris,109.5,83.34
+561,Boundin',219.1,188.08
+562,"Slipping-Down Life, A",98.8,42.39
+563,Blood of Redemption,184.9,303.38
+564,For Greater Glory: The True Story of Cristiada,214.2,85.93
+565,Leonard Cohen: I'm Your Man,44.9,329.1
+566,The Fuller Brush Man,246.3,379.1
+567,Hitman Hart: Wrestling with Shadows,42.5,266.8
+568,Palmetto,84.3,281.59
+569,Midnight,222.3,217.51
+570,Pledge This!,231.7,11.76
+571,Swept Away,84.0,238.87
+572,Shadrach,12.4,383.2
+573,Smokey and the Bandit II,35.2,94.3
+574,No Blade of Grass,188.2,313.68
+575,Analyze This,228.6,224.19
+576,Obsessed,156.3,107.61
+577,97 Percent True,147.0,62.96
+578,"Phantom of the Opera, The",208.1,300.86
+579,Starsky & Hutch,85.2,171.48
+580,All Together,130.4,313.79
+581,1984 (Nineteen Eighty-Four),13.9,13.94
+582,In Your Dreams (Dans tes rêves),70.9,124.73
+583,"Father of My Children, The (Le père de mes enfants)",145.1,391.59
+584,Nothing to Declare (Rien à déclarer),220.7,310.49
+585,Doctor Zhivago,138.6,185.68
+586,Growing Pains,80.2,69.17
+587,Virgin Stripped Bare by Her Bachelors (Oh! Soo-jung),75.5,247.25
+588,"Deep End of the Ocean, The",15.8,303.12
+589,Magic,217.0,165.86
+590,Decoys,148.1,296.22
+591,Anything Else,157.3,292.88
+592,Follow the Fleet,195.0,280.14
+593,Leprechaun,77.1,80.52
+594,Enemy at the Gates,220.3,16.48
+595,Lorenzo's Oil,249.2,27.09
+596,Game of Death II (a.k.a. Tower of Death) (Si wang ta),200.9,365.04
+597,Upstairs and Downstairs,246.0,330.46
+598,When Darkness Falls (När mörkret faller),115.3,80.84
+599,Rembrandt,108.5,393.72
+600,My Father the Hero,97.6,115.68
+601,"Over-Eater, The (L'outremangeur)",90.6,289.88
+602,"Legally Blonde 2: Red, White & Blonde",19.4,219.83
+603,Destiny (Al-massir),91.2,389.45
+604,Asylum,40.2,50.03
+605,Diplomacy (Diplomatie),75.2,49.13
+606,Deterrence,59.7,276.05
+607,Printed Rainbow,227.4,290.21
+608,Carmen,162.3,226.51
+609,Age of Dinosaurs,161.2,235.82
+610,Z,68.5,322.25
+611,Let's Get Harry,211.6,186.73
+612,Rich and Famous (Gong woo ching),204.8,375.94
+613,"Dark Hours, The",100.6,183.83
+614,Rambo (Rambo 4),131.5,320.89
+615,Chapter 27,212.5,328.96
+616,Unspeakable Acts ,84.9,78.49
+617,Steal a Pencil for Me,163.2,148.0
+618,"RKO Production 601: The Making of 'Kong, the Eighth Wonder of the World'",221.4,262.32
+619,"Sunday in the Country, A (Un dimanche à la campagne)",41.7,60.05
+620,Please Vote for Me,102.3,82.74
+621,By the Law,64.2,386.99
+622,Scars of Dracula,148.0,21.37
+623,Vincent Wants to Sea (Vincent will meer),79.9,203.15
+624,On Any Sunday,93.2,249.87
+625,Day of the Dead 2: Contagium,227.9,370.38
+626,The Dependent,164.3,54.22
+627,Tim's Vermeer,59.8,322.8
+628,Magic Hunter (Büvös vadász),238.8,310.95
+629,Everlasting Moments (Maria Larssons eviga ögonblick),105.6,153.7
+630,"Central Park Five, The",201.1,113.29
+631,Hud,239.6,385.4
+632,Monster,249.7,306.51
+633,Beloved (Les bien-aimées),33.9,70.26
+634,Frequency,20.0,333.32
+635,Things We Lost in the Fire,174.3,251.55
+636,"House of the Seven Gables, The",140.4,260.76
+637,Take Me Home Tonight,30.8,78.98
+638,Accepted,148.7,360.26
+639,"Godfather, The",32.5,335.45
+640,Too Hot to Handle,89.1,399.55
+641,Kung Fu Panda,154.7,295.16
+642,"Memory Keeper's Daughter, The",112.3,75.47
+643,Town & Country,54.7,394.19
+644,Parker,132.2,252.31
+645,"Story of a Cheat, The (Roman d'un tricheur, Le)",59.9,175.76
+646,She's So Lovely,132.9,152.88
+647,Duets,118.6,316.97
+648,"Diary for Timothy, A",63.5,136.89
+649,Yesterday Girl (Abschied von gestern - Anita G.),102.8,233.06
+650,"Big Bird Cage, The",150.9,128.2
+651,"Back to the Garden, Flower Power Comes Full Circle",147.3,13.33
+652,Inside Llewyn Davis,110.0,61.28
+653,Bonnie and Clyde,160.3,385.91
+654,Liquid Sky,64.6,191.66
+655,Appleseed (Appurushîdo),187.9,10.82
+656,The Last Diamond,247.8,156.13
+657,"Flamingo Kid, The",65.8,180.97
+658,"Story of Seabiscuit, The",242.3,391.31
+659,Marilyn in Manhattan,140.2,67.93
+660,American Bandits: Frank and Jesse James,149.7,78.17
+661,Saving Lincoln,244.1,117.79
+662,The Conrad Boys,126.9,18.51
+663,Public Speaking,195.8,238.05
+664,Bananas,88.4,30.74
+665,Haxan: Witchcraft Through the Ages (a.k.a. The Witches),111.7,250.05
+666,Choose,160.8,320.25
+667,In the Folds of the Flesh,77.6,228.85
+668,My Awkward Sexual Adventure,159.2,249.28
+669,Cake,68.3,320.97
+670,"Return of the Magnificent Seven, The (a.k.a. Return of the Seven)",73.6,248.46
+671,Hercules in New York,222.5,274.8
+672,"Wild and Wonderful Whites of West Virginia, The",41.3,118.08
+673,Life Back Then (Antoki no inochi),113.3,305.53
+674,Lost Highway,227.3,312.38
+675,What? (Che?),36.0,275.92
+676,Vice Versa,103.5,255.82
+677,Resurrection Man,248.4,96.81
+678,"Times of Harvey Milk, The",43.8,273.56
+679,One Missed Call,188.5,190.61
+680,"Windmill Movie, The",11.4,274.88
+681,Safrana or Freedom of Speech (Safrana ou le droit à la parole),149.7,162.07
+682,Dylan Moran: Monster,24.7,77.04
+683,"Marsh, The",102.9,343.11
+684,Skyfall,127.1,326.45
+685,Super 8,224.1,19.5
+686,Broken Lance,69.6,201.02
+687,Dead Men Walk,70.9,12.58
+688,"Enforcer, The",85.3,298.93
+689,King's Game (Kongekabale),204.3,304.32
+690,Narc,232.5,68.7
+691,"Eiger Sanction, The",110.5,210.88
+692,Tyler Perry's Madea's Witness Protection,206.1,241.35
+693,Down to the Cellar (Do pivnice),163.2,290.3
+694,Infestation,19.4,253.04
+695,"Rum Diary, The",168.2,142.29
+696,Abbott and Costello Meet Frankenstein,184.2,117.51
+697,"Fifth Commandment, The",28.4,323.38
+698,"Turtle's Tale: Sammy's Adventures, A",29.4,248.07
+699,Galaxy Express 999 (Ginga tetsudô Three-Nine),146.8,334.16
+700,"Fiancee, The (Parineeta)",220.9,63.78
+701,"Trip to Italy, The",76.9,136.5
+702,"Magdalene Sisters, The",40.6,209.15
+703,Facing the Truth (At kende sandheden),209.7,288.69
+704,Car Wash,219.3,182.99
+705,"Island at the Top of the World, The",38.6,200.83
+706,"Adventures of Mark Twain, The",96.9,341.9
+707,"Bridges at Toko-Ri, The",242.2,327.43
+708,Felicia's Journey,192.5,81.52
+709,Creature Comforts,14.3,58.49
+710,"Day the Earth Caught Fire, The",133.8,26.13
+711,The Indifferent Beauty,171.7,201.52
+712,Jönssonligan - Den perfekta stöten,152.6,51.09
+713,A-Haunting We Will Go,180.2,158.12
+714,"Love Song for Bobby Long, A",55.3,254.69
+715,"Legend of the Lone Ranger, The",160.8,129.5
+716,Jacob's Ladder,103.8,41.72
+717,"Tramp, The (Awaara) (Awara)",30.8,213.66
+718,California Conquest,50.1,110.34
+719,"Lion King, The",29.5,30.85
+720,"Price Above Rubies, A",184.9,184.52
+721,"Passion of Ayn Rand, The",216.5,89.97
+722,Broadcast News,96.7,257.37
+723,"Fugitive, The",75.8,310.25
+724,"Sea Is Watching, The (Umi wa miteita)",155.6,69.63
+725,American Splendor,72.1,90.74
+726,"Mozart's Sister (Nannerl, la soeur de Mozart)",138.2,113.37
+727,Hollidaysburg,216.9,243.07
+728,Crimes of Fashion,113.0,66.84
+729,Lee Daniels' The Butler,246.4,137.96
+730,Lady Vengeance (Sympathy for Lady Vengeance) (Chinjeolhan geumjassi),222.1,340.78
+731,Curtis's Charm,166.0,287.31
+732,Lady Windermere's Fan,147.9,270.23
+733,Fuzz,173.2,217.09
+734,Kalifornia,175.3,207.32
+735,"Hello, Friend",131.7,287.03
+736,"Brothers O'Toole, The",235.6,62.35
+737,"Way Ahead, The (a.k.a. The Immortal Battalion)",108.1,136.42
+738,"Amityville Curse, The",105.6,398.44
+739,Waste Land,60.7,337.11
+740,Ben-Hur,208.3,302.81
+741,Alucarda,102.1,106.89
+742,Scarecrows,172.7,233.25
+743,Yves Saint Laurent,225.0,352.61
+744,Flirtation Walk,153.5,301.2
+745,Anne of the Thousand Days,92.4,273.41
+746,RV,227.7,243.61
+747,Beyond the Mat,183.1,288.46
+748,"Turin Horse, The (A Torinói ló)",236.0,161.54
+749,Bulworth,155.4,67.59
+750,South Central,89.3,165.16
+751,Koran by Heart,153.0,173.35
+752,Alvarez Kelly,205.2,155.29
+753,Stiff Upper Lips,133.8,346.19
+754,"Tall Target, The",118.4,107.7
+755,"Mating Season, The",213.1,270.94
+756,Shadow Kill,102.5,285.09
+757,Cyrus,64.5,134.06
+758,Hand in Hand,170.2,312.91
+759,"Letter, The",210.5,61.28
+760,Casablanca,229.8,274.28
+761,Pathology,156.9,355.87
+762,Beauty and the Beast (Beauty and the Beasts: A Dark Tale),81.4,289.02
+763,Mulan,114.7,251.33
+764,Carancho,63.6,160.94
+765,Do the Right Thing,171.1,126.53
+766,Camille,119.0,22.35
+767,Coven,62.7,158.92
+768,Black Sheep (Schwarze Schafe),156.8,179.23
+769,Wild Horses (Caballos salvajes),215.1,340.48
+770,Kicking and Screaming,156.9,172.72
+771,Carnosaur 3: Primal Species,40.0,166.01
+772,All Together,164.4,216.09
+773,7 Men from Now (Seven Men from Now),77.6,111.87
+774,Forget Baghdad: Jews and Arabs - The Iraqi Connection,232.8,392.93
+775,Dadetown,132.7,39.58
+776,Pulling John,33.2,119.7
+777,My Wife Is a Gangster 2 (Jopog manura 2: Dolaon jeonseol),100.6,21.91
+778,Smitty,156.5,337.46
+779,Conan O'Brien Can't Stop,35.6,66.38
+780,House of Dracula,89.2,234.9
+781,Knightriders,186.2,68.73
+782,Conspirators of Pleasure (Spiklenci slasti),93.4,386.68
+783,"Orphanage, The (Orfanato, El)",78.7,244.8
+784,Woman in Love (Rubbeldiekatz),159.4,40.49
+785,Human Nature,139.6,342.84
+786,Aqua Teen Hunger Force Colon Movie Film for Theaters,245.0,18.9
+787,"Vida precoz y breve de Sabina Rivas, La (Precocious and Brief Life of Sabina Rivas, The)",209.5,145.29
+788,1987,18.1,201.68
+789,From Beyond,23.7,264.58
+790,Critters 4,21.2,37.56
+791,A Chinese in a Coma,78.5,274.9
+792,The Sign of Four: Sherlock Holmes' Greatest Case,131.8,121.62
+793,"Cat and the Canary, The",38.3,356.86
+794,Chungking Express (Chung Hing sam lam),247.5,175.37
+795,Neds,174.6,245.31
+796,"Last House on the Left, The",133.7,202.61
+797,Belizaire the Cajun,156.4,97.39
+798,In Fear,143.8,169.6
+799,Cheerleader Massacre,156.1,328.01
+800,Ringu 0: Bâsudei,58.2,273.18
+801,Welcome to L.A.,217.7,392.46
+802,At the River I Stand,15.2,375.77
+803,Dracula A.D. 1972,49.7,82.17
+804,The Butterfly Effect 3: Revelations,77.3,343.46
+805,Mr Hublot,237.7,286.46
+806,Police,191.7,394.94
+807,The Student,52.2,114.01
+808,"Reality of Love, The (I Want to Marry Ryan Banks)",162.6,154.6
+809,Invisible Waves,247.7,244.59
+810,"Birth of a Nation, The",203.0,241.98
+811,Home Before Dark,136.7,383.2
+812,Sagebrush Trail,86.1,84.76
+813,Step Up Love Story (Futari ecchi),123.6,229.62
+814,"Great Escape, The",80.1,273.96
+815,Love the Beast,25.8,191.27
+816,Fatal Attraction,13.4,320.87
+817,Hands Across the Table,118.6,266.96
+818,Send Me No Flowers,131.9,242.31
+819,It's Alive III: Island of the Alive,85.8,32.22
+820,Lagaan: Once Upon a Time in India,41.2,278.41
+821,Warriors (Guerreros),137.6,179.53
+822,Hunting Elephants,63.6,399.01
+823,Panic,201.1,306.88
+824,Vinyl,172.3,44.82
+825,Killer McCoy,14.3,397.8
+826,When a Woman Ascends the Stairs (Onna ga kaidan wo agaru toki),169.0,174.78
+827,Ransom (a.k.a. The Terrorists),182.7,342.24
+828,"Matchmaker, The",22.2,243.87
+829,Jealousy,215.7,245.02
+830,The Sinners of Hell,147.1,58.3
+831,Going in Style,51.2,360.84
+832,Deal of the Century,44.5,313.7
+833,Freedomland,82.7,298.42
+834,Blood Diamond,183.8,244.51
+835,State and Main,123.7,20.44
+836,9500 Liberty,161.9,310.81
+837,Regarding Henry,115.3,288.49
+838,"Silent Night, Deadly Night III: Better Watch Out!",231.3,164.4
+839,Catch That Kid,185.4,38.89
+840,Empire of Passion (a.k.a. In the Realm of Passion) (a.k.a. Phantom Love) (Ai No Borei),227.9,107.14
+841,Drained (O cheiro do Ralo),235.6,53.6
+842,Appointment with Danger,112.0,20.36
+843,"Steel Trap, The",134.8,369.65
+844,Kings of Pastry (Les rois de la pâtisserie),142.8,321.01
+845,"House of the Devil, The",72.2,43.58
+846,Blind Pig Who Wants to Fly (Babi buta yang ingin terbang),73.3,336.17
+847,Two Much,27.3,333.41
+848,Ice Princess,195.5,317.95
+849,"Spanish Main, The",105.2,238.94
+850,"Lawless Heart, The",184.2,209.9
+851,Green Lantern: First Flight,146.6,243.09
+852,Cherish,192.0,22.19
+853,"Battered Bastards of Baseball, The",172.6,346.81
+854,Another Cinderella Story,175.4,297.6
+855,"Only Son, The (Hitori musuko)",42.6,170.24
+856,Bushwhacked,156.8,146.38
+857,Once Upon a Time in Shanghai,243.9,221.77
+858,Medora,92.1,104.13
+859,"Dictator, The",37.5,379.71
+860,"Horseman, The",245.8,243.06
+861,Kumail Nanjiani: Beta Male ,245.9,274.97
+862,"Lucía, Lucía (Hija del caníbal, La)",231.0,261.78
+863,Yertle the Turtle and Other Stories,15.3,41.0
+864,"Bird with the Crystal Plumage, The (Uccello dalle piume di cristallo, L')",139.0,357.59
+865,Monsieur Verdoux,236.3,346.01
+866,Lifeguard,20.5,217.11
+867,Billy's Holiday,95.6,148.78
+868,Mendy: A Question of Faith,244.6,260.72
+869,Andy Hardy's Blonde Trouble,21.0,397.31
+870,Snow Dogs,89.4,22.85
+871,Dil Se,118.0,168.83
+872,Sex and Breakfast,113.0,330.21
+873,Lebanon,228.2,277.96
+874,Cube Zero,51.9,111.19
+875,Dot the I,196.8,385.06
+876,One Chance,119.3,236.42
+877,Mike's New Car,233.6,192.21
+878,"Pumpkin Eater, The",50.6,379.46
+879,"Fool There Was, A",57.4,206.54
+880,Unconditional Love,227.5,262.25
+881,Resurrecting the Champ,151.8,33.78
+882,"Cuckoo, The (Kukushka)",71.7,117.01
+883,Smilin' Through,243.8,177.48
+884,Out of Mind: The Stories of H.P. Lovecraft,79.5,129.36
+885,Traitor,215.0,135.89
+886,Support Your Local Gunfighter,149.3,389.26
+887,Room in Rome (Habitación en Roma),202.4,244.63
+888,Guter Junge,204.9,84.99
+889,Juarez,29.7,163.58
+890,Hairspray,22.7,89.46
+891,"Chosen, The",126.7,266.86
+892,Before Your Eyes (Min Dit: The Children of Diyarbakir),220.0,172.01
+893,"Inn in Tokyo, An (Tôkyô no yado)",223.3,103.44
+894,Citizen Kane,59.0,35.37
+895,Barbarella,220.8,385.95
+896,Machine Gun Kelly,177.9,354.72
+897,Man Push Cart,95.3,14.66
+898,"Hijacking, A (Kapringen)",129.6,26.9
+899,Go for It,40.0,379.22
+900,"Last Witness, The",12.1,126.23
+901,Cocaine Cowboys,90.4,106.88
+902,Son of God,241.0,136.91
+903,Worth Winning,198.2,371.76
+904,Black Dog,160.7,161.05
+905,"Sumo Do, Sumo Don't (Shiko funjatta)",96.2,118.11
+906,"Cuckoo, The (Kukushka)",149.9,374.97
+907,Morning Glory,146.7,130.56
+908,Dr. Akagi (Kanzo sensei),73.7,274.41
+909,War Witch (Rebelle),173.2,263.57
+910,Police Academy: Mission to Moscow,213.5,91.34
+911,Saint (Sint),164.1,307.63
+912,Entity,52.3,68.4
+913,Die Fischerin,137.6,230.88
+914,I Know Where I'm Going!,31.4,136.35
+915,"Sword and the Sorcerer, The",95.3,298.45
+916,"Champ, The",201.3,15.84
+917,"Greatest, The",208.9,68.39
+918,"Ghost Goes West, The",23.5,309.05
+919,Mesrine: Killer Instinct (L'instinct de mort),167.0,43.41
+920,"Bikini Carwash Company, The",151.2,176.28
+921,Welcome to New York,161.3,27.51
+922,Undisputed,16.7,202.76
+923,Police,159.8,347.15
+924,"Ox-Bow Incident, The",38.8,259.09
+925,Bill & Ted's Excellent Adventure,127.5,63.3
+926,"Play It Again, Sam",115.3,118.32
+927,W.R.: Mysteries of the Organism,170.1,302.69
+928,"Steamboat Bill, Jr.",174.0,87.08
+929,Smilin' Through,159.7,69.87
+930,Butterfly on a Wheel (Shattered),150.5,41.9
+931,Rio Bravo,242.3,345.51
+932,Yo Yo (Yoyo),97.9,219.4
+933,Spring Break Shark Attack,21.4,264.1
+934,Star Trek: Insurrection,101.1,388.75
+935,Motocrossed,60.4,168.3
+936,Dadetown,198.3,262.17
+937,Mammy,198.4,372.64
+938,Birth of the Living Dead,197.4,339.71
+939,Return with Honor,180.9,339.35
+940,"See You in Hell, My Darling (Tha se do stin Kolasi, agapi mou)",150.7,373.88
+941,Randy and the Mob,122.8,218.23
+942,Koi... Mil Gaya,34.7,231.67
+943,"Candidate, The (Kandidaten)",27.3,82.3
+944,The Plague of the Zombies,216.0,70.49
+945,Boris and Natasha,51.5,144.05
+946,Sleep with Me,152.0,250.91
+947,Less Than Zero,194.6,281.61
+948,The Seven-Ups,190.9,147.1
+949,Top Hat,182.6,216.84
+950,Ju-on: The Curse 2,27.1,242.02
+951,"Fog, The",246.6,322.06
+952,Common,120.4,394.06
+953,Vincent,105.4,140.61
+954,Fidel,177.6,300.57
+955,"Bride Comes Home, The",142.5,31.34
+956,"Sword of Doom, The (Dai-bosatsu tôge)",235.7,225.66
+957,Shinobi: Heart Under Blade,33.4,154.75
+958,Caliber 9,167.4,217.96
+959,Three Resurrected Drunkards (Kaette kita yopparai),160.3,194.78
+960,Skies Above the Landscape (Nebo iznad krajolika),142.3,168.18
+961,Immortals,197.8,113.34
+962,Marie from the Bay of Angels (Marie Baie Des Anges),151.8,129.56
+963,Home of the Brave,206.7,221.42
+964,Jonestown: Paradise Lost,49.4,361.02
+965,Ghost Town,55.7,153.16
+966,"Apartment, The",158.8,395.57
+967,"Fighting Seabees, The",212.4,103.21
+968,Recount,125.2,326.24
+969,Deceived,15.3,310.17
+970,"King - Jari Litmanen, The (Kuningas Litmanen)",217.1,279.74
+971,Reap the Wild Wind,192.9,36.33
+972,Saturday Night Fever,70.1,78.17
+973,Something Real and Good,246.9,281.84
+974,Cinderella,192.8,340.64
+975,Gemini (Sôseiji),63.5,25.55
+976,ComDads (les Compères),27.3,274.37
+977,"Machinist, The (Maquinista, El)",225.1,335.28
+978,Waiting to Exhale,172.0,157.14
+979,Highlander II: The Quickening,55.1,316.61
+980,Skinwalkers,69.5,216.36
+981,A Man Called Magnum,204.0,147.68
+982,Wicked Blood,133.0,274.46
+983,V: The Final Battle,48.8,379.79
+984,"Sign of Four, The",169.0,159.69
+985,Nocturno 29,226.4,337.23
+986,"Shunning, The",68.6,120.65
+987,"Reluctant Fundamentalist, The",128.6,375.92
+988,"Girl with the Dragon Tattoo, The (Män som hatar kvinnor)",26.0,378.37
+989,"Catechism Cataclysm, The",122.6,42.08
+990,Miss Violence,83.4,384.44
+991,Helvetica,60.7,325.27
+992,Pulling Strings,110.4,56.61
+993,"Last Kiss, The",217.1,127.49
+994,Hot Saturday,126.1,393.98
+995,"Diamond Arm, The (Brilliantovaya ruka)",34.4,123.19
+996,One Crazy Summer,96.1,96.54
+997,Seven Years Bad Luck,173.5,192.65
+998,Death in Brunswick,200.6,255.41
+999,King Lines,142.8,385.97
+1000,Lucky 7,12.5,97.52
